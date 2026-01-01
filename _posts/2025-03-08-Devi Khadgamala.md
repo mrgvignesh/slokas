@@ -1,140 +1,114 @@
-<head> Devi Khadgamala Stotram </head> <br><br><br>
+# Devi Khadgamala Stotram
 
-om asya śrī śuddhaśaktimālāmahāmantrasya, upasthendriyādhiṣṭhāyī varuṇāditya <br>
-ṛṣayaḥ devī gāyatrī chandaḥ sātvika kakārabhaṭṭārakapīṭhasthita <br>
-kāmeśvarāṅkanilayā mahākāmeśvarī śrī lalitā bhaṭṭārikā devatā, aiṃ bījaṃ klīṃ <br>
-śaktiḥ, sauḥ kīlakaṃ mama khaḍgasiddhyarthe sarvābhīṣṭasiddhyarthe jape <br>
-viniyogaḥ <br>
+### Viniyogaḥ (Preliminary Rite)
+**om asya śrī śuddhaśaktimālāmahāmantrasya |** upasthendriyādhiṣṭhāyī varuṇāditya ṛṣayaḥ | devī gāyatrī chandaḥ |  
+sātvika kakārabhaṭṭārakapīṭhasthita kāmeśvarāṅkanilayā mahākāmeśvarī śrī lalitā bhaṭṭārikā devatā |  
+aiṃ bījaṃ | klīṃ śaktiḥ | sauḥ kīlakaṃ |  
+mama khaḍgasiddhyarthe sarvābhīṣṭasiddhyarthe jape viniyogaḥ ||
 
-**kara nyāsaṃ (Ritual by hand)  <br>
-aiṃ aṅguṣṭhabhyam namaḥ      (Aim salutations by the thumb) <br>
-klīṃ tharjanībhyam namaḥ     (Klim salutations by the second finger) <br>
-sauḥ madhyamabhyam namaḥ     (Sauh salutations by middle finger)  <br>
-sauḥ anāmikābhyam namaḥ      (Sauh salutations by the fourth finger) <br>
-klīṃ kaniṣṭhākabhyam namaḥ   (Klim salutations by little finger) <br>
-aiṃ kara thala kara pṛṣṭhabhyam namaḥ       (Aim salutations by the palm and back of the palm) <br>
-<br>
-<br>
-<br>
-aṅga nyāsaṃ              (Ritual by the limb) <br>
-aiṃ hṛdayaya namaḥ       (Aim salutations by the heart) <br>
-klīṃ śirase svaha        (Klim salutations by the head) <br>
-sauḥ śikhāyayai vaushat  (Sauh salutations by the hair) <br>
-sauḥ kavachaya hūm       (Sauh Salutations to the armour) <br>
-klīṃ netra trayaya vaushat (Klim salutations to the three eyes)  <br>
-aiṃ astraya phat         (Aim salutations to the arrow) <br>
-bhūr bhuva suva om iti dig bandha (Salutations to all the directions) <br>
- <br>
-dhyānam   (Meditation) <br>
-āraktābhāntriṇetrāmaruṇimavasanāṃ ratnatāṭaṅkaramyām <br>
-hastāmbhojaissapāśāṅkuśamadanadhanussāyakairvisphurantīm । <br>
-āpīnottuṅgavakṣoruhakalaśaluṭhattārahārojjvalāṅgīṃ <br>
-dhyāyedambhoruhasthāmaruṇimavasanāmīśvarīmīśvarāṇām ॥ <br> <br>
+---
 
-**lamityādipañca pūjām kuryāt, yathāśakti mūlamantram japet । <br>
-Do the five types of worship with Lam etc. Chant the root mantra as per <br>
-your capacity. <br>
-
-laṃ – pṛthivītattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai gandhaṃ
-parikalpayāmi – namaḥ <br>
-_(Lam – to the soul of earth I offer sandal paste along with other good things.)_<br>
- 
-haṃ – ākāśatattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai puṣpaṃ
-parikalpayāmi – namaḥ<br>
-_(Ham – to the soul of ether I offer the flower of the control of my senses.)_<br>
-
-yaṃ – vāyutattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai dhūpaṃ
-parikalpayāmi – namaḥ<br>
-_(Yam – for the soul of air, I offer the incense of heavenly abandonment)<br>
-
-raṃ – tejastattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai dīpaṃ
-parikalpayāmi – namaḥ<br>
-_(Ram – to the soul of fire, I offer the light which is the form of the divine crescent.)_<br>
-
-vaṃ – amṛtatattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai
-amṛtanaivedyaṃ parikalpayāmi – namaḥ<br>
-_(Vam – for the undying soul of blood I offer the nectar of joy which is the power of Shiva as well as the end of nectar like Shiva. )_<br>
-
-saṃ – sarvatattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai
-tāmbūlādisarvopacārān parikalpayāmi – namaḥ<br>
-_(Sam – for the soul of everything which has the form merged with mind, I perform the worship of camphor.)_<br>
+### Kara Nyāsaṃ (Ritual of the Hands)
 
 
-śrī devī sambodhanaṃ (1)<br>
-**om aiṃ hrīṃ śrīm aiṃ klīṃ sauḥ om namastripurasundarī,** <br>
+* **aiṃ aṅguṣṭhabhyam namaḥ** (Salutations by the thumb)
+* **klīṃ tharjanībhyam namaḥ** (Salutations by the index finger)
+* **sauḥ madhyamabhyam namaḥ** (Salutations by the middle finger)
+* **sauḥ anāmikābhyam namaḥ** (Salutations by the ring finger)
+* **klīṃ kaniṣṭhākabhyam namaḥ** (Salutations by the little finger)
+* **aiṃ kara thala kara pṛṣṭhabhyam namaḥ** (Salutations by the palm and back of the hand)
 
-nyāsāṅgadevatāḥ (6)<br>
-**hṛdayadevī, śirodevī, śikhādevī, kavacadevī, netradevī, astradevī,** <br>
+---
 
-tithinityādevatāḥ (16) <br>
-**kāmeśvarī, bhagamālinī, nityaklinne, bheruṇḍe, vahnivāsinī, mahāvajreśvarī, <br>
-śivadūtī, tvarite, kulasundarī, nitye, nīlapatāke, vijaye, sarvamaṅgale, jvālāmālinī, <br>
-citre, mahānitye,** <br>
+### Aṅga Nyāsaṃ (Ritual of the Limbs)
+* **aiṃ hṛdayaya namaḥ** (Salutations to the heart)
+* **klīṃ śirase svaha** (Salutations to the head)
+* **sauḥ śikhāyayai vaushat** (Salutations to the hair/tuft)
+* **sauḥ kavachaya hūm** (Salutations to the armor)
+* **klīṃ netra trayaya vaushat** (Salutations to the three eyes)
+* **aiṃ astraya phat** (Salutations to the weapon)
+* **bhūr bhuva suva om iti dig bandha** (Protection of the directions)
 
-divyaughaguravaḥ (7) <br>
-**parameśvaraparameśvarī, ṣaṣṭhīśamayi, mitreśamayī, uḍḍīśamayī, caryānāthamayī, <br>
-lopāmudramayī, agastyamayī** <br>
+---
 
-siddhaughaguravaḥ (4) <br>
-**kālatāpaśamayī, dharmācāryamayī, muktakeśīśvaramayī, dīpakalānāthamayī,** <br>
+### Dhyānam (Meditation)
+> āraktābhāntriṇetrāmaruṇimavasanāṃ ratnatāṭaṅkaramyām |  
+> hastāmbhojaissapāśāṅkuśamadanadhanussāyakairvisphurantīm ||  
+> āpīnottuṅgavakṣoruhakalaśaluṭhattārahārojjvalāṅgīṃ |  
+> dhyāyedambhoruhasthāmaruṇimavasanāmīśvarīmīśvarāṇām ||
 
-mānavaughaguravaḥ (8) <br>
-**viṣṇudevamayī, prabhākaradevamayī, tejodevamayī, manojadevamayi, <br>
-kalyāṇadevamayī, vāsudevamayī, ratnadevamayī, śrīrāmānandamayī** <br>
+---
 
-Following are the Goddesses of the nine enclosures of Sri Chakra: <br>
-śrīcakra prathamāvaraṇadevatāḥ <br>
-**aṇimāsiddhe, laghimāsiddhe, garimāsiddhe, mahimāsiddhe, īśitvasiddhe, <br>
-vaśitvasiddhe, prākāmyasiddhe, bhuktisiddhe, icchāsiddhe, prāptisiddhe, <br>
-sarvakāmasiddhe, brāhmī, māheśvarī, kaumāri, vaiṣṇavī, vārāhī, māhendrī, <br>
-cāmuṇḍe, mahālakṣmī, sarvasaṅkṣobhiṇī, sarvavidrāviṇī, sarvākarṣiṇī, <br>
-sarvavaśaṅkarī, sarvonmādinī, sarvamahāṅkuśe, sarvakhecarī, sarvabīje, sarvayone, <br>
-sarvatrikhaṇḍe, trailokyamohana cakrasvāminī, prakaṭayoginī** <br>
+### Pañca Pūjām (Five-fold Worship)
+*Perform the five types of worship (Lam etc.) and chant the root mantra as per capacity.*
 
-śrīcakra dvitīyāvaraṇadevatāḥ <br>
-**kāmākarṣiṇī, buddhyākarṣiṇī, ahaṅkārākarṣiṇī, śabdākarṣiṇī, sparśākarṣiṇī, <br>
-rūpākarṣiṇī, rasākarṣiṇī, gandhākarṣiṇī, cittākarṣiṇī, dhairyākarṣiṇī, smṛtyākarṣiṇī, <br>
-nāmākarṣiṇī, bījākarṣiṇī, ātmākarṣiṇī, amṛtākarṣiṇī, śarīrākarṣiṇī, sarvāśāparipūraka <br>
-cakrasvāminī, guptayoginī** <br>
+1. **laṃ** – pṛthivītattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai gandhaṃ parikalpayāmi – namaḥ  
+   *(To the soul of Earth, I offer sandal paste.)*
+2. **haṃ** – ākāśatattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai puṣpaṃ parikalpayāmi – namaḥ  
+   *(To the soul of Ether, I offer flowers.)*
+3. **yaṃ** – vāyutattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai dhūpaṃ parikalpayāmi – namaḥ  
+   *(To the soul of Air, I offer incense.)*
+4. **raṃ** – tejastattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai dīpaṃ parikalpayāmi – namaḥ  
+   *(To the soul of Fire, I offer the light.)*
+5. **vaṃ** – amṛtatattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai amṛtanaivedyaṃ parikalpayāmi – namaḥ  
+   *(To the soul of Nectar/Water, I offer the food of immortality.)*
+6. **saṃ** – sarvatattvātmikāyai śrī lalitātripurasundarī parābhaṭṭārikāyai tāmbūlādisarvopacārān parikalpayāmi – namaḥ  
+   *(To the soul of All, I perform all services/camphor worship.)*
 
-śrīcakra tṛtīyāvaraṇadevatāḥ <br>
-**anaṅgakusume, anaṅgamekhale, anaṅgamadane, anaṅgamadanāture, anaṅgarekhe, <br>
-anaṅgaveginī, anaṅgāṅkuśe, anaṅgamālinī, sarvasaṅkṣobhaṇacakrasvāminī, <br>
-guptatarayoginī** <br>
+---
 
-śrīcakra caturthāvaraṇadevatāḥ <br>
-**sarvasaṅkṣobhiṇī, sarvavidrāvinī, sarvākarṣiṇī, sarvahlādinī, sarvasammohinī, <br>
-sarvastambhinī, sarvajṛmbhiṇī, sarvavaśaṅkarī, sarvarañjanī, sarvonmādinī, <br>
-sarvārthasādhike, sarvasampattipūriṇī, sarvamantramayī, sarvadvandvakṣayaṅkarī, <br>
-sarvasaubhāgyadāyaka cakrasvāminī, sampradāyayoginī** <br>
+### Śrī Devī Sambodhanaṃ (Invocation)
+**om aiṃ hrīṃ śrīm aiṃ klīṃ sauḥ om namastripurasundarī,**
 
-śrīcakra pañcamāvaraṇadevatāḥ <br>
-**sarvasiddhiprade, sarvasampatprade, sarvapriyaṅkarī, sarvamaṅgalakāriṇī, <br>
-sarvakāmaprade, sarvaduḥkhavimocanī, sarvamṛtyupraśamani, sarvavighnanivāriṇī, <br>
-sarvāṅgasundarī, sarvasaubhāgyadāyinī, sarvārthasādhaka cakrasvāminī, <br>
-kulottīrṇayoginī** <br>
+### Nyāsāṅgadevatāḥ (The Limbs)
+hṛdayadevī, śirodevī, śikhādevī, kavacadevī, netradevī, astradevī,
 
-śrīcakra ṣaṣṭāvaraṇadevatāḥ <br>
-**sarvajñe, sarvaśakte, sarvaiśvaryapradāyinī, sarvajñānamayī, sarvavyādhivināśinī, <br>
-sarvādhārasvarūpe, sarvapāpahare, sarvānandamayī, sarvarakṣāsvarūpiṇī, <br>
-sarvepsitaphalaprade, sarvarakṣākaracakrasvāminī, nigarbhayoginī** <br>
+### Tithinityādevatāḥ (The Lunar Days)
+kāmeśvarī, bhagamālinī, nityaklinne, bheruṇḍe, vahnivāsinī, mahāvajreśvarī, śivadūtī, tvarite, kulasundarī, nitye, nīlapatāke, vijaye, sarvamaṅgale, jvālāmālinī, citre, mahānitye,
 
-śrīcakra saptamāvaraṇadevatāḥ <br>
-**vaśinī, kāmeśvarī, modinī, vimale, aruṇe, jayinī, sarveśvarī, kaulini, <br>
-sarvarogaharacakrasvāminī, rahasyayoginī** <br>
+---
 
-śrīcakra aṣṭamāvaraṇadevatāḥ <br>
-**bāṇinī, cāpinī, pāśinī, aṅkuśinī, mahākāmeśvarī, mahāvajreśvarī, mahābhagamālinī, <br>
-sarvasiddhipradacakrasvāminī, atirahasyayoginī** <br>
+### Lineage of Gurus (Guru Maṇḍala)
+* **Divyaughaguravaḥ:** parameśvaraparameśvarī, ṣaṣṭhīśamayi, mitreśamayī, uḍḍīśamayī, caryānāthamayī, lopāmudramayī, agastyamayī
+* **Siddhaughaguravaḥ:** kālatāpaśamayī, dharmācāryamayī, muktakeśīśvaramayī, dīpakalānāthamayī,
+* **Mānavaughaguravaḥ:** viṣṇudevamayī, prabhākaradevamayī, tejodevamayī, manojadevamayi, kalyāṇadevamayī, vāsudevamayī, ratnadevamayī, śrīrāmānandamayī
 
-śrīcakra navamāvaraṇadevatāḥ <br>
-**śrī śrī mahābhaṭṭārike, sarvānandamayacakrasvāminī, parāpararahasyayoginī** <br>
+---
 
-navacakreśvarī nāmāni <br>
-**tripure, tripureśī, tripurasundarī, tripuravāsinī, tripurāśrīḥ, tripuramālinī, <br>
-tripurasiddhe, tripurāmbā, mahātripurasundarī** <br>
+### The Nine Enclosures of the Śrī Cakra
 
-śrīdevī viśeṣaṇāni – namaskāranavākṣarīca <br>
-**mahāmaheśvarī, mahāmahārājñī, mahāmahāśakte, mahāmahāgupte, <br>
-mahāmahājñapte, mahāmahānande, mahāmahāskandhe, mahāmahāśaye, mahāmahā <br>
-śrīcakranagarasāmrājñī, namaste namaste namaste namaḥ** <br>
+
+#### 1. Prathamāvaraṇadevatāḥ (The First Enclosure)
+aṇimāsiddhe, laghimāsiddhe, garimāsiddhe, mahimāsiddhe, īśitvasiddhe, vaśitvasiddhe, prākāmyasiddhe, bhuktisiddhe, icchāsiddhe, prāptisiddhe, sarvakāmasiddhe, brāhmī, māheśvarī, kaumāri, vaiṣṇavī, vārāhī, māhendrī, cāmuṇḍe, mahālakṣmī, sarvasaṅkṣobhiṇī, sarvavidrāviṇī, sarvākarṣiṇī, sarvavaśaṅkarī, sarvonmādinī, sarvamahāṅkuśe, sarvakhecarī, sarvabīje, sarvayone, sarvatrikhaṇḍe, **trailokyamohana cakrasvāminī, prakaṭayoginī**
+
+#### 2. Dvitīyāvaraṇadevatāḥ
+kāmākarṣiṇī, buddhyākarṣiṇī, ahaṅkārākarṣiṇī, śabdākarṣiṇī, sparśākarṣiṇī, rūpākarṣiṇī, rasākarṣiṇī, gandhākarṣiṇī, cittākarṣiṇī, dhairyākarṣiṇī, smṛtyākarṣiṇī, nāmākarṣiṇī, bījākarṣiṇī, ātmākarṣiṇī, amṛtākarṣiṇī, śarīrākarṣiṇī, **sarvāśāparipūraka cakrasvāminī, guptayoginī**
+
+#### 3. Tṛtīyāvaraṇadevatāḥ
+anaṅgakusume, anaṅgamekhale, anaṅgamadane, anaṅgamadanāture, anaṅgarekhe, anaṅgaveginī, anaṅgāṅkuśe, anaṅgamālinī, **sarvasaṅkṣobhaṇacakrasvāminī, guptatarayoginī**
+
+#### 4. Caturthāvaraṇadevatāḥ
+sarvasaṅkṣobhiṇī, sarvavidrāvinī, sarvākarṣiṇī, sarvahlādinī, sarvasammohinī, sarvastambhinī, sarvajṛmbhiṇī, sarvavaśaṅkarī, sarvarañjanī, sarvonmādinī, sarvārthasādhike, sarvasampattipūriṇī, sarvamantramayī, sarvadvandvakṣayaṅkarī, **sarvasaubhāgyadāyaka cakrasvāminī, sampradāyayoginī**
+
+#### 5. Pañcamāvaraṇadevatāḥ
+sarvasiddhiprade, sarvasampatprade, sarvapriyaṅkarī, sarvamaṅgalakāriṇī, sarvakāmaprade, sarvaduḥkhavimocanī, sarvamṛtyupraśamani, sarvavighnanivāriṇī, sarvāṅgasundarī, sarvasaubhāgyadāyinī, **sarvārthasādhaka cakrasvāminī, kulottīrṇayoginī**
+
+#### 6. Șaṣṭāvaraṇadevatāḥ
+sarvajñe, sarvaśakte, sarvaiśvaryapradāyinī, sarvajñānamayī, sarvavyādhivināśinī, sarvādhārasvarūpe, sarvapāpahare, sarvānandamayī, sarvarakṣāsvarūpiṇī, sarvepsitaphalaprade, **sarvarakṣākaracakrasvāminī, nigarbhayoginī**
+
+#### 7. Saptamāvaraṇadevatāḥ
+vaśinī, kāmeśvarī, modinī, vimale, aruṇe, jayinī, sarveśvarī, kaulini, **sarvarogaharacakrasvāminī, rahasyayoginī**
+
+#### 8. Aṣṭamāvaraṇadevatāḥ
+bāṇinī, cāpinī, pāśinī, aṅkuśinī, mahākāmeśvarī, mahāvajreśvarī, mahābhagamālinī, **sarvasiddhipradacakrasvāminī, atirahasyayoginī**
+
+#### 9. Navamāvaraṇadevatāḥ
+śrī śrī mahābhaṭṭārike, **sarvānandamayacakrasvāminī, parāpararahasyayoginī**
+
+---
+
+### Navacakreśvarī Nāmāni
+tripure, tripureśī, tripurasundarī, tripuravāsinī, tripurāśrīḥ, tripuramālinī, tripurasiddhe, tripurāmbā, mahātripurasundarī
+
+### Concluding Salutations
+mahāmaheśvarī, mahāmahārājñī, mahāmahāśakte, mahāmahāgupte, mahāmahājñapte, mahāmahānande, mahāmahāskandhe, mahāmahāśaye, mahāmahā śrīcakranagarasāmrājñī, **namaste namaste namaste namaḥ**
