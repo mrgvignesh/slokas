@@ -45,3 +45,17 @@ Recite these twelve names of the great-souled King of Monkeys:
 *tasya sarvabhayaṁ nāsti sarvatra vijayī bhavēt ||*
 
 > **Translation:** For that person, all fear ceases to exist, and they shall emerge victorious in everything they do.
+>
+---
+### Dhana Sholka from Valmiki Ramanyam -  I bow with folded hands to that Āñjaneya (Hanumān)—Who, playfully leaping across the waters of the ocean, took upon Himself the ‘fire of sorrow’ of Janakātmājā (Sītā), and with that very fire burned down Laṅkā.
+
+*ullaṅghya sindhoḥ salilaṁ salīlaṁ* 
+*yaḥ śokavahniṁ janakātmajāyāḥ |* 
+*ādāya tēnaiva dadāha laṅkāṁ *
+*namāmi taṁ prāñjalir āñjanēyam ||*
+
+### Karya Siddhe Mantra -  3 times
+*tvamasmin kāryaniryogē*
+*pramāṇaṁ harisattama | *
+*hanūman yatnamāsthāya*
+*duḥkhakṣayakaro bhava ||*
